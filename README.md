@@ -4,11 +4,6 @@
 
 <h3 align="center">🎓 Software Engineering Student @ Asia Pacific University</h3>
 
-<p align="center">
-  <a href="mailto:xiangzhichiang2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/xiangzhi2003"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
 ---
 
 ## 💻 Tech Stack
@@ -22,13 +17,6 @@
 </p>
 
 ---
-
-## 📫 Let's Connect!
-
-<p align="center">
-  📧 <a href="mailto:xiangzhichiang2003@gmail.com">xiangzhichiang2003@gmail.com</a>
-</p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xiangzhi2003&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
